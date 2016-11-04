@@ -62,13 +62,6 @@ public class MoveCharacterCharacterController : MonoBehaviour {
 		}
 	}
 
-	
-	// Use this for initialization
-	void Start () {
-				
-	}
-	
-	// Update is called once per frame
 	void Update () 
 	{
 		GetInput();
@@ -76,12 +69,7 @@ public class MoveCharacterCharacterController : MonoBehaviour {
 		ExecuteMovement();
 		ExecuteAnimations();
 	}
-	
-	private void LateUpdate()
-	{
-		//ExecuteMovement();
-	}
-
+		
 	private float SmoothInputHelper(float _from, float _to)
 	{
 		float returnValue;
