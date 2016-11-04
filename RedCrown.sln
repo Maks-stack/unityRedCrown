@@ -1,0 +1,49 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BB9F2E70-3341-49C1-5A08-B4B62D37BA6E}") = "RedCrown", "Assembly-CSharp.csproj", "{769DBEC1-C36A-370C-867D-405B14BF142C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769DBEC1-C36A-370C-867D-405B14BF142C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769DBEC1-C36A-370C-867D-405B14BF142C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769DBEC1-C36A-370C-867D-405B14BF142C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769DBEC1-C36A-370C-867D-405B14BF142C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																												GlobalSection(MonoDevelopProperties) = preSolution
+||||||| .r4
+																	GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																					GlobalSection(MonoDevelopProperties) = preSolution
+||||||| .r5
+																					GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																						GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> .r6
+>>>>>>> .r5
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+EndGlobal
